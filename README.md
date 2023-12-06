@@ -7,6 +7,11 @@
 - ⚡ Fun fact: [A horse normally has more than one horsepower](https://www.nature.com/articles/364195a0?utm_medium=affiliate&utm_source=commission_junction&utm_campaign=CONR_PF018_ECOM_GL_PHSS_ALWYS_DEEPLINK&utm_content=textlink&utm_term=PID100090912&CJEVENT=9528a268871411ee8030cdb50a18b8f8)
 
 ### [My GitHub Page](https://macszym.github.io/)
+
+### Intresting project - *Dobb-e*
+[Link to my fork of its repository](https://github.com/Macszym/dobb-e)
+
+[Link to the paper about this project](https://paperswithcode.com/paper/on-bringing-robots-home)
 <!--
 **Macszym/Macszym** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
